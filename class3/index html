@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+     content="width=device-width">
+     <initial-scale>=1.0'>
+    <title>document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+   <!--<div class="container">
+        <div class="item item1">1</div>
+        <div class="item item2">2</div>
+        <div class="item item3">3</div>
+    </div>-->
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae omnis ipsam, numquam excepturi laborum illum, sint velit nesciunt doloribus cum similique hic iusto iste error pariatur officia incidunt vitae temporibus corporis facere voluptates, ab veniam! Reiciendis error, ab voluptates tempore, suscipit eos est saepe temporibus molestias quas, culpa nobis. Delectus iure voluptatibus sed laborum obcaecati minima aliquam vero maxime architecto voluptatem deleniti, repellat ea ullam distinctio, quas facere? Quidem repudiandae cupiditate autem cumque sed voluptatem impedit eveniet ex corporis similique earum deleniti, sunt id omnis voluptas maxime, ipsum nam, recusandae odit sit sequi? Consectetur id aliquam maxime ea quibusdam suscipit.</p>
+<nav>
+    <div class="nav-logo">
+        <p>GIET <span>ghangapatna</span>
+            </p>
+    </div>
+    <ul>
+        <li>home</li>
+        <li>about</li>
+        <li>service</li>
+        <li>content</li>
+    </ul>
+</div class="nav-button">
+   <button>logic</button>
+</div>
+</nav>
+</body>
+</html>
